@@ -2,7 +2,7 @@
   "main": {
     "name": "Artis Jackson Jr",
     "occupation": "AWS Cloud Engineer",
-    "description": " 3+ years of experience in cloud computing, creating private networks, IaC, and system administrations. Dedicated and self-motivated AWS Engineer that is always looking to push the environment in the most optimal way. Strong experience operating globally distributed, mission critical systems, and designing for high availability and performance. Excellent communication skills with the ability to adapt to new technologies and learn quickly.",
+    "description": " 3+ years of experience in cloud computing, creating private networks, IaC, and system administrations. Dedicated and self-motivated AWS Engineer that is always looking to push the environment in the most optimal way. Strong experience operating globally distributed, mission critical systems, and designing for high availability and performance. Excellent communication skills with the ability to adapt to new technologies and learn quickly",
     "image": "profilepic.jpg",
     "bio": "Before I began my career in Cloud Computing, I owned a successful clothing brand named IceDream. Eventually, I ventured into web and graphic design where my interest to learn about computers, and how the function grew. I began pursuing a B.S. in Software Development but switched my major to Computer Networks and Cyber Security because I fell in love with cyber, due to the vulnerabilities and how everything is connected. After taking two courses on Cloud Computing, an AWS fanatic was born.\n\n Upon the completion of my Bachelors, I immediately started my Masters program on Cloud Computing Architecture. I purchased every book I could to increase my knowledge on the subject and joined every group I could to soak up the wealth of information. The ability to become a one-man datacenter, in a sense, for a company excited me. Knowing that I could take a company to the next level with security, scalability, redundancy, and reduced cost, blew my away. \n\n  I am now taking on every project I can and learning more about containers such as Docker and Kubernetes. I am also learning about different automation such as Ansible, Terraform, and CloudFormation. Day by day I am increasing my knowledge and proficiency in cloud computing with AWS and Azure. This is my passion, and I am ready for all the opportunities ahead. ",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -14,8 +14,8 @@
       "state": "Texas",
       "zip": "75454"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.artisjacksoninaction.com",
+    "resumedownload": "https://resumedownload.s3.amazonaws.com/Artis+Jackson_-Resume.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -30,7 +30,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "My top skills ",
+    "skillmessage": "My Skills ",
     "education": [
       {
         "school": "Masters of Science in Cloud Computing Architecture",
@@ -102,36 +102,12 @@
   },
   "portfolio": {
     "projects": [
-      /*{
+      {
         "title": "Canadian Wanderlust",
         "category": "My Travel Blog for my post-university travels",
         "image": "canadian-wanderlust.jpg",
         "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
-      }*/
+      }
     ]
   },
   "testimonials": {
