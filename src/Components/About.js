@@ -25,17 +25,17 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>Highly technical Cloud Engineer with 2+ years of experience in cloud computing, creating private networks, IaC, and system administrations. Dedicated and self-motivated AWS Engineer that is always looking to push the environment in the most optimal way. Strong experience operating globally distributed, mission critical systems, and designing for high availability and performance. Excellent communication skills with the ability to adapt to new technologies and learn quickly. Active Top Secret / SCI Security Clearance.</p>
+            <p></p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
 						   <span>
-						   <span>Artis Jackson</span><br />
+						   <span>Artis Jackson Jr</span><br />
                      
-						         Melissa, Texas, 75454 
+						         {city}, {state} {zip} 
                    </span><br />
-						   <span>386-308-9745</span><br />
+						   <span>{phone}</span><br />
                      <span>{email}</span>
 					   </p>
                </div>
