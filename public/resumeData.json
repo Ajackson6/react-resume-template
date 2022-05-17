@@ -45,20 +45,6 @@
         "description": "•Completed 120 credit hours, resulting in a Bachelor’s Degree in Computer Networks and Cybersecurity Studied topics including: \n \t o Fundamentals of Computer Troubleshooting, Fundamentals of Networking, Network Security, Ethical Hacking, Cloud Technologies, Switching, Routing, and Wireless Essentials, Current Trends and Projects in Computer Networks and Cybersecurity \n •Evaluated, installed, configured, maintained, and troubleshot computer hardware components and operating systems \n •Configured and managed Cisco switches within multi-protocol inter networks, wireless network, and routing protocols \n •Designed, developed, and wrote security systems, including a penetration testing proposal using ethical hacking methods and a vulnerability management plan including a process to analyze vulnerabilities and recommend mitigating strategies \n •Developed a proof of concept by building a virtual machine on the AWS cloud platform to host existing infrastructure \n • Resolved IT system problems and met the needs of end-users by applying troubleshooting methodologies"
       }
     ],
-    "certifications": {
-     
-      "certname": [
-        {
-          "badge": "Masters of Science in Cloud Computing Architecture",
-          "date": "University of Maryland Global Campus",
-          "authority": "Dec 2022"
-        },
-        {
-          "badge": "Masters of Science in Cloud Computing Architecture",
-          "date": "University of Maryland Global Campus",
-          "authority": "Dec 2022"
-        }
-      ],
     "work": [
       {
         "company": "AWS DevOps Student",
@@ -81,38 +67,42 @@
     ],
     "skills": [
       {
-        "name": "Git",
+        "name": "AWS",
+        "level": "85%"
+      },
+      {
+        "name": "Networking",
+        "level": "70%"
+      },
+      {
+        "name": "System Administrations",
+        "level": "70%"
+      },
+      {
+        "name": "Terraform",
+        "level": "30%"
+      },
+      {
+        "name": "DevOps",
+        "level": "30%"
+      },
+      {
+        "name": "Software Dev",
+        "level": "50%"
+      },
+      {
+        "name": "Linux/Window Servers",
         "level": "60%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "VueJs",
-        "level": "50%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Databases",
+        "level": "20%"
       }
     ]
   },
   "portfolio": {
     "projects": [
-      {
+      /*{
         "title": "Canadian Wanderlust",
         "category": "My Travel Blog for my post-university travels",
         "image": "canadian-wanderlust.jpg",
@@ -141,7 +131,7 @@
         "category": "(MVP Only) A React and Meteor based chat University project.",
         "image": "smirkspace.jpg",
         "url": "http://www.smirkspace.com"
-      }
+      }*/
     ]
   },
   "testimonials": {
