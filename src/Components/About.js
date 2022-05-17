@@ -32,10 +32,10 @@ class About extends Component {
                   <p className="address">
 						   <span>{name}</span><br />
 						   <span><br />
-						         {Melissa} {Texas}, {75454}
+						         {city} {state}, {zip}
                    </span><br />
-						   <span>{386-308-9745}</span><br />
-                     <span>{'Artis.M.Jackson@gmail.com'}</span>
+						   <span>{phone}</span><br />
+                     <span>{email}</span>
 					   </p>
                </div>
                <div className="columns download">
