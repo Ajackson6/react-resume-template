@@ -45,6 +45,20 @@
         "description": "•Completed 120 credit hours, resulting in a Bachelor’s Degree in Computer Networks and Cybersecurity Studied topics including: \n \t o Fundamentals of Computer Troubleshooting, Fundamentals of Networking, Network Security, Ethical Hacking, Cloud Technologies, Switching, Routing, and Wireless Essentials, Current Trends and Projects in Computer Networks and Cybersecurity \n •Evaluated, installed, configured, maintained, and troubleshot computer hardware components and operating systems \n •Configured and managed Cisco switches within multi-protocol inter networks, wireless network, and routing protocols \n •Designed, developed, and wrote security systems, including a penetration testing proposal using ethical hacking methods and a vulnerability management plan including a process to analyze vulnerabilities and recommend mitigating strategies \n •Developed a proof of concept by building a virtual machine on the AWS cloud platform to host existing infrastructure \n • Resolved IT system problems and met the needs of end-users by applying troubleshooting methodologies"
       }
     ],
+    "certifications": {
+     
+      "certname": [
+        {
+          "badge": "Masters of Science in Cloud Computing Architecture",
+          "date": "University of Maryland Global Campus",
+          "authority": "Dec 2022"
+        },
+        {
+          "badge": "Masters of Science in Cloud Computing Architecture",
+          "date": "University of Maryland Global Campus",
+          "authority": "Dec 2022"
+        }
+      ],
     "work": [
       {
         "company": "AWS DevOps Student",
@@ -57,17 +71,12 @@
         "title": "B.E.A.T. LLC",
         "years": "August 2021 - April 2022",
         "description": "•Developed and deployed Cloud infrastructure for local application from on premise deployment\n • Created an architecture for new technology utilizing cloud technology for internal BEAT employee development as part of BEAT Career Progression Program for staff certification and training.\n • Connected B.E.A.T.s proprietary GitHub to an VPC for automation of application deployment utilizing DevSecOps best practices and tools \n • Utilized Jenkins, Terraform, AWS, GitHub and Ansible as part of application integration and orchestration. \n • Trained College interns on the basic fundamentals of AWS cloud environment: EC2, CloudWatch,\n • CloudFormation, IAM, S3, ECS, and EKS. Developed lab to be completed by interns as part of BEAT Rowdy Runners and College Internship Program \n • Designed coursework and syllabus support for AWS & Cloud development as part of College Internship Program.\n • Taught the basic functionality of Linux to college intern in how to navigate through the operating system and being able to choose which Linux distribution."
-      }, {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
+      }, 
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Lead Supervisor, Tactical Data Coordinator",
+        "title": "United States Navy",
+        "years": "February 2009 - January 2022",
+        "description": "•Tracked 550+ surface contacts and plotted 120 navigation aids during 15 harbor transits and anchoring evolutions; served as a technical expert in support of 12 additional training scenarios \n • Coordinated, the data link connection between multiple Naval vessels over satellites uses Link11 and link16 ,, which created a unified tactical picture for the fleet. \n • Provided on-the-job training and instruction to 7 personnel to support cross-training for an undermanned department, ensuring full coverage all operational areas \n • Mentored up to 50 new employees annually, providing program onboarding and familiarization, and coordinated 900+ hours of training to provide career advancement opportunities to trainees \n • Oversaw ongoing communications among team including newsletters, social media updates, and documentation of command events distributed to 136 personnel monthly \n • Facilitated 30 drills and trained 136 new team members as the Damage Control Training Team member, resulting in increased team emergency response proficiency and certification"
       }
     ],
     "skills": [
