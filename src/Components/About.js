@@ -20,21 +20,22 @@ class About extends Component {
       <section id="about">
       <div className="row">
          <div className="three columns">
-            <img className="profile-pic"  src={profilepic} alt="Tim Baker Profile Pic" />
+            <img className="profile-pic"  src={profilepic} alt="Artis Jackson Profile Pic" />
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>{bio}</p>
+            <p>Highly technical Cloud Engineer with 2+ years of experience in cloud computing, creating private networks, IaC, and system administrations. Dedicated and self-motivated AWS Engineer that is always looking to push the environment in the most optimal way. Strong experience operating globally distributed, mission critical systems, and designing for high availability and performance. Excellent communication skills with the ability to adapt to new technologies and learn quickly. Active Top Secret / SCI Security Clearance.</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-						   <span>{name}</span><br />
-						   <span><br />
-						         {city} {state}, {zip}
+						   <span>
+						   <span>Artis Jackson</span><br />
+                     
+						         Melissa, Texas, 75454 
                    </span><br />
-						   <span>{phone}</span><br />
+						   <span>386-308-9745</span><br />
                      <span>{email}</span>
 					   </p>
                </div>
