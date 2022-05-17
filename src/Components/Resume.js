@@ -24,7 +24,30 @@ class Resume extends Component {
 
     return (
       <section id="resume">
+<div className="row education">
+         <div className="three columns header-col">
+            <h1><span>Certifications</span></h1>
+         </div>
 
+         <div className="nine columns main-col">
+            <div className="row item">
+               <div className="twelve columns">
+               <b>•AWS Solutions Associate </b>March 2022 <br /> <b>•AWS Cloud Practitioner</b> March 2022<br /> <b>•Cloud Computer and Network Certificate </b>| UMGC May 2022<br /> <b>•Computer Network Certificate </b>| UMGC May 2021<br /> <b>•Computer Operator Apprenticeship</b> | Department of Labor
+               </div>
+            </div>
+         </div>
+      </div>
+      <div className="row work">
+
+<div className="three columns header-col">
+   <h1><span>Work</span></h1>
+</div>
+
+<div className="nine columns main-col">
+ {work}
+</div>
+
+</div>
       <div className="row education">
          <div className="three columns header-col">
             <h1><span>Education</span></h1>
@@ -40,32 +63,8 @@ class Resume extends Component {
       </div>
 
 
-      <div className="row work">
-
-         <div className="three columns header-col">
-            <h1><span>Work</span></h1>
-         </div>
-
-         <div className="nine columns main-col">
-          {work}
-        </div>
-
-        
-
-    </div>
-    <div className="row education">
-         <div className="three columns header-col">
-            <h1><span>Certifications</span></h1>
-         </div>
-
-         <div className="nine columns main-col">
-            <div className="row item">
-               <div className="twelve columns">
-               <b>•AWS Solutions Associate </b>March 2022 <br /> <b>•AWS Cloud Practitioner</b> March 2022<br /> <b>•Cloud Computer and Network Certificate </b>| UMGC May 2022<br /> <b>•Computer Network Certificate </b>| UMGC<br /> <b>•Computer Operator Apprenticeship</b> | Department of Labor
-               </div>
-            </div>
-         </div>
-      </div>
+      
+    
 
 
       <div className="row skill">
