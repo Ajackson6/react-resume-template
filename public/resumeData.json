@@ -15,7 +15,7 @@
       "zip": "75454"
     },
     "website": "http://www.artisjacksoninaction.com",
-    "resumedownload": "https://resumedownload.s3.amazonaws.com/Artis+Jackson_-Resume.pdf",
+    "resumedownload": "https://resumedownload.s3.amazonaws.com/Artis_Jackson--Resume.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -47,10 +47,10 @@
     ],
     "work": [
       {
-        "company": "AWS DevOps Student",
+        "company": "AWS Solutions Architect",
         "title": "SkillStorm",
         "years": "February 2022 - May 2022",
-        "description": "• The AWS solutions architect course is designed to prepare for the AWS Solutions Architect Associate certification. This course will provide the skills needed to effectively design, deploy, manage, and operate workloads on AWS cloud infrastructure.\n • Create & modified MySQL databases, and connected them to an AWS account running automation queries to find specific data.\n • Utilizing the CLI to preform updates, input files, and modifications to files system on AWS servers."
+        "description": "Deployed a continuous integration and delivery pipeline with integrated security tools to test and deploy full stack web applications. Applications are hosted on GitHub and watched by a Jenkins build server where they are compiled and tested upon each release during the Agile development process. Containerized applications using Docker and orchestrated containers with Kubernetes. Wrote playbooks in Ansible for automation and configuration management. Performed security analysis and testing using Metasploit, Burp Suite, and Red Team Tools. Automated building and testing of deployments using Jenkins triggered by Git commits.\n•Configured Docker images as build environments for the CI/CD Pipeline and maintained build images in Docker Hub.\n•Automated tasks and configuration management using Ansible playbooks.\n•Implemented automatic scaling of compute resources to maintain Docker deployments using AWS Fargate.\n•Orchestrated and managed clusters of Docker containers using Kubernetes and EKS.\n•Established the AWS EKS infrastructure using terraform\n•Implemented security tools into Jenkins and customized security tests using Red Team tools, Metasploit, and Burp Suite.\n•Exposed to other configuration management tools like puppet and chef.  We chose to use Ansible as our main configuration tool for our pipelines.\n\nTask Organization System\nWorked in a team environment to Deploy a virtual network spread across multiple Availability Zones in a Region with RDS, Elasticache, EFS and various other AWS compute resources.  The environment uses a highly available, scalable and fault tolerant design intended to serve a large customer base.\n•Review and Run CloudFormation Templates\n•Create an Amazon RDS Database with backup\n•Create an Amazon Elasticache for MemCached\n•Create an Amazon Elastic File System (EFS) with mount points in multiple availability zones\n•Create and deploy an Application Load Balancer (ALB) that directs traffic to an AWS Auto Scaling Group\n•Create a Launch Template Using CloudFormation\n•Create the Application Servers by Configuring an Auto Scaling Group and a Scaling Policy\n\nPersonal Portfolio Website\nCreated a plan for an on-premises IT infrastructure to service over 25 employees and 2 buildings.  Implemented VLAN connections to segregate networks and VPN connections for employees not on site.  Established connections for VOIP requirements and created the cabling plan to connect all devices as well as both buildings in a small local area network.\n•Planned the VLAN deployment using switches and routers\n•Created routes to each network on the VLAN and segregated the networks appropriately\n•Planned for the cabling between clients as well as the fiber connection between buildings.\n•Connected remote workers to the company via VPN connections and their issued tablets while they were out of the office."
       },
       {
         "company": "DevOps Architect Intern",
